@@ -1,0 +1,19 @@
+{
+  "forward_parameter_and_rotation": "PASS",
+  "blank_result_validation": "PASS",
+  "result_return_and_rotation": "PASS",
+  "cancel_preserves_previous_result": "PASS",
+  "stopwatch_running_rotation": {
+    "before_ms": 2470,
+    "landscape_ms": 4410,
+    "restored_ms": 5970
+  },
+  "stopwatch_pause_resume_reset": "PASS",
+  "implicit_camera_launch": "PASS",
+  "full_photo_return_rotation_and_cancel": {
+    "result": "PASS",
+    "width": 1392,
+    "height": 1856,
+    "size_kb": 73
+  }
+}

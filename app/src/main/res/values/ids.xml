@@ -1,0 +1,18 @@
+<resources>
+    <item name="message_input" type="id" />
+    <item name="open_receive" type="id" />
+    <item name="open_result" type="id" />
+    <item name="returned_result" type="id" />
+    <item name="open_camera" type="id" />
+    <item name="open_stopwatch" type="id" />
+    <item name="received_message" type="id" />
+    <item name="result_input" type="id" />
+    <item name="submit_result" type="id" />
+    <item name="photo_preview" type="id" />
+    <item name="take_photo" type="id" />
+    <item name="timer_value" type="id" />
+    <item name="timer_toggle" type="id" />
+    <item name="timer_reset" type="id" />
+    <item name="timer_lap" type="id" />
+</resources>
+
