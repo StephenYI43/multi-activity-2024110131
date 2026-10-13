@@ -73,6 +73,7 @@ $find = $doc.Paragraphs.Item(1).Range.Find
 $null = $find.Execute('年  月  日', $false, $false, $false, $false, $false, $true, 0, $false, '2026年10月13日', 2)
 $dateRange = $doc.Paragraphs.Item(1).Range
 if ($dateRange.Find.Execute('2026年10月13日')) { $dateRange.Font.Size = 8 }
+Set-Text 2 '计算机科学学院   2024级1班   实验名称：多Activity'
 Set-Text 3 '姓名：宋珺熠   学号：2024110131   指导老师：李贵洋   实验成绩：_____'
 Set-Text 6 ('GitHub网址：' + $repoUrl)
 foreach ($index in @(28,29,30)) {
